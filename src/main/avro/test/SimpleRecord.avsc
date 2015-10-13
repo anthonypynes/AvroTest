@@ -1,0 +1,19 @@
+{
+    "name": "SimpleRecord",
+    "namespace": "com.wpengine.data.test",
+    "type": "record",
+    "doc": "Simple record for testing.",
+
+    "fields": [
+        {
+            "name": "foo",
+            "doc": "",
+            "type": "string"
+        },
+        {
+            "name": "bar",
+            "doc": "",
+            "type": "int"
+        }
+    ]
+}
